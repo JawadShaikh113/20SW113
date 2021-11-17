@@ -1,2 +1,2 @@
 # 20sw113
-I've created typing test as semester project in java using GUI.
+I've created a "typing test" game as semester project in java using GUI.
